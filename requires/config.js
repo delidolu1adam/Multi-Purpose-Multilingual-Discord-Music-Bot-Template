@@ -1,7 +1,7 @@
 module.exports = {
 
   general: {
-  BOT_TOKEN: 'BOT_TOKEN', // Bot token
+  BOT_TOKEN: 'TYPE-HERE', // Bot token
   BOT_STATUS: 'true', // Custom status message enabled or disabled
   BOT_STATUS_MESSAGE: 'It is developed ❤️ Guazy', // Custom status message
   GUILD_ID: 'TYPE-HERE', // Your discord server ID
