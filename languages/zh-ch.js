@@ -1,1 +1,1 @@
-// Chinese (Simplified) language file
+// Chinese (Traditional) language file
