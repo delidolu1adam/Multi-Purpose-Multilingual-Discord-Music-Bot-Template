@@ -1,0 +1,1 @@
+// Bot leaving to channel
