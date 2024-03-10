@@ -1,0 +1,1 @@
+// Bot join to channel
