@@ -1,1 +1,204 @@
-// Turkish language file
+{
+  "commands": {
+    "core": {
+      "info": {
+        "name": "info",
+        "description": "Description text about the info command."
+      },
+      "invite": {
+        "name": "invite",
+        "description": "Description text about the invite command."
+      },
+      "ping": {
+        "name": "ping",
+        "description": "Description text about the ping command."
+      },
+      "reload": {
+        "name": "reload",
+        "description": "Description text about the reload command."
+      },
+      "restart": {
+        "name": "restart",
+        "description": "Description text about the restart command."
+      },
+      "uptime": {
+        "name": "uptime",
+        "description": "Description text about the uptime command."
+      }
+    },
+    "information": {
+      "stream": {
+        "twitch": {
+          "name": "twitch",
+          "description": "Description text about the twitch command under stream."
+        },
+        "youtube": {
+          "name": "youtube",
+          "description": "Description text about the youtube command under stream."
+        }
+      },
+      "user": {
+        "join": {
+          "name": "join",
+          "description": "Description text about the join command under user."
+        },
+        "leave": {
+          "name": "leave",
+          "description": "Description text about the leave command under user."
+        }
+      }
+    },
+    "moderation": {
+      "ban": {
+        "name": "ban",
+        "description": "Description text about the ban command."
+      },
+      "clear": {
+        "name": "clear",
+        "description": "Description text about the clear command."
+      },
+      "disconnect": {
+        "name": "disconnect",
+        "description": "Description text about the disconnect command."
+      },
+      "kick": {
+        "name": "kick",
+        "description": "Description text about the kick command."
+      },
+      "move": {
+        "name": "move",
+        "description": "Description text about the move command."
+      },
+      "mute": {
+        "name": "mute",
+        "description": "Description text about the mute command."
+      },
+      "unban": {
+        "name": "unban",
+        "description": "Description text about the unban command."
+      },
+      "unmute": {
+        "name": "unmute",
+        "description": "Description text about the unmute command."
+      }
+    },
+    "music": {
+      "back": {
+        "name": "back",
+        "description": "Description text about the back command."
+      },
+      "clear": {
+        "name": "clear",
+        "description": "Description text about the clear command."
+      },
+      "filter": {
+        "name": "filter",
+        "description": "Description text about the filter command."
+      },
+      "join": {
+        "name": "join",
+        "description": "Description text about the join command."
+      },
+      "leave": {
+        "name": "leave",
+        "description": "Description text about the leave command."
+      },
+      "loop": {
+        "name": "loop",
+        "description": "Description text about the loop command."
+      },
+      "lyrics": {
+        "name": "lyrics",
+        "description": "Description text about the lyrics command."
+      },
+      "nowplaying": {
+        "name": "nowplaying",
+        "description": "Description text about the nowplaying command."
+      },
+      "pause": {
+        "name": "pause",
+        "description": "Description text about the pause command."
+      },
+      "play": {
+        "name": "play",
+        "description": "Description text about the play command."
+      },
+      "queue": {
+        "name": "queue",
+        "description": "Description text about the queue command."
+      },
+      "resume": {
+        "name": "resume",
+        "description": "Description text about the resume command."
+      },
+      "save": {
+        "name": "save",
+        "description": "Description text about the save command."
+      },
+      "search": {
+        "name": "search",
+        "description": "Description text about the search command."
+      },
+      "shuffle": {
+        "name": "shuffle",
+        "description": "Description text about the shuffle command."
+      },
+      "skip": {
+        "name": "skip",
+        "description": "Description text about the skip command."
+      },
+      "skipto": {
+        "name": "skipto",
+        "description": "Description text about the skipto command."
+      },
+      "stop": {
+        "name": "stop",
+        "description": "Description text about the stop command."
+      }
+    },
+    "premium": {
+      "247": {
+        "name": "247",
+        "description": "Description text about the 247 command."
+      },
+      "dj": {
+        "name": "dj",
+        "description": "Description text about the dj command."
+      },
+      "leave": {
+        "name": "leave",
+        "description": "Description text about the leave command under premium."
+      },
+      "volume": {
+        "name": "volume",
+        "description": "Description text about the volume command."
+      }
+    },
+    "radio": {
+      "radio": {
+        "name": "radio",
+        "description": "Description text about the radio command."
+      }
+    }
+  },
+  "handlers": {
+    "buttons": {
+      "name": "buttons",
+      "description": "Description text about the buttons handler."
+    },
+    "commands": {
+      "name": "commands",
+      "description": "Description text about the commands handler."
+    }
+  },
+  "requires": {
+    "languages": {
+      "name": "languages",
+      "description": "Description text about the languages requirement."
+    },
+    "premium": {
+      "name": "premium",
+      "description": "Description text about the premium requirement."
+    }
+  }
+}
