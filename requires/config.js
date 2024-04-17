@@ -13,6 +13,7 @@ module.exports = {
 
   options: {
   PREMIUM_MODE: 'false', // Premium mode enabled or disabled
+  PREMIUM_WAIT_TIME: '300', // Maximum time (in seconds) that the bot will stay in the channel if Premium is not active.
   GUILD_ID: 'TYPE-HERE', // Your discord server ID
   DEVELOPER_ID: 'TYPE-HERE', // Your discord client ID 
   },
